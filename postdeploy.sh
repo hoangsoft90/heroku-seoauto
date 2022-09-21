@@ -25,5 +25,5 @@ var p=parseUri(process.env.DATABASE_URL);
 console.log(`PGPASSWORD=${p.password} psql -h ${p.host} -d ${p.database} -U ${p.user} -f db.sql`);
 EOF
 );
-$cmd
+$cmd || true
 #psql $args -f db.sql
