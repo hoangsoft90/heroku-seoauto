@@ -1,4 +1,4 @@
-IMAGE_NAME = seobot_heroku
+IMAGE_NAME = seotool_heroku
 VERSION = latest
 FILE = Dockerfile
 

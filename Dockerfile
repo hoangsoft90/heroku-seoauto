@@ -1,1 +1,1 @@
-FROM ghcr.io/hoangweb/seobot_heroku:latest
+FROM ghcr.io/hoangweb/seotool_heroku:latest

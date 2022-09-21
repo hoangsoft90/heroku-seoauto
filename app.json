@@ -1,11 +1,11 @@
 {
 	"name": "heroku-seobot-cron",
 	"description": "A cron job for seobot",
-	"repository": "https://github.com/hoangsoft90/seobot",
+	"repository": "https://github.com/hoangsoft90/heroku-seoauto",
 	"logo": "https://app.23webhost.com/images/logo.png",
 	"website": "https://bck.haibasoft.com/",
 	"stack": "container",
-	"image": "ghcr.io/hoangweb/seobot_heroku:latest",
+	"image": "ghcr.io/hoangweb/seotool_heroku:latest",
 	"addon":[
 		{
 	  		"plan": "heroku-postgresql:hobby-dev"
