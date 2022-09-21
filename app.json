@@ -15,11 +15,14 @@
 	    "JOB_NAME": {
 	    	"description": "job name",
 	    	"value":"cron"
+	    },
+	    "HEROKU_ENVIRONMENT": {
+	    	"value":"1"
 	    }
 	},
 	"scripts": {
 		"postdeploy": [
-		  
+		  "postdeploy.sh"
 		]
 	}
 }
