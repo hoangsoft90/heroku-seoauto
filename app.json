@@ -12,7 +12,7 @@
 		}
 	],
 	"env": {
-	    "JOB_NAME": {
+	    "TASK": {
 	    	"description": "job name",
 	    	"value":"cron"
 	    },
@@ -22,7 +22,7 @@
 	},
 	"scripts": {
 		"postdeploy": [
-		  "postdeploy.sh"
+		  
 		]
 	}
 }
