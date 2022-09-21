@@ -26,6 +26,10 @@
 	    "heroku_token":{
 	    	"description": "heroku token",
 	    	"value":""
+	    },
+		"site_url": {
+	    	"description": "site url",
+	    	"value":""
 	    }
 	},
 	"scripts": {
