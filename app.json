@@ -18,6 +18,14 @@
 	    },
 	    "HEROKU_ENVIRONMENT": {
 	    	"value":"1"
+	    },
+		"heroku_app":{
+	    	"description": "heroku app",
+	    	"value":""
+	    },
+	    "heroku_token":{
+	    	"description": "heroku token",
+	    	"value":""
 	    }
 	},
 	"scripts": {
