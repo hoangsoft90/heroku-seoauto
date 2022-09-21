@@ -6,6 +6,11 @@
 	"website": "https://bck.haibasoft.com/",
 	"stack": "container",
 	"image": "ghcr.io/hoangweb/seobot_heroku:latest",
+	"addon":[
+		{
+	  		"plan": "heroku-postgresql:hobby-dev"
+		}
+	],
 	"env": {
 	    "JOB_NAME": {
 	    	"description": "job name",
