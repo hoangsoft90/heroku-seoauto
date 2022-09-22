@@ -19,15 +19,19 @@
 	    "HEROKU_ENVIRONMENT": {
 	    	"value":"1"
 	    },
-		"heroku_app":{
+	    "heroku_app":{
 	    	"description": "heroku app",
 	    	"value":""
+	    },
+	    "heroku_email":{
+	    	"description": "heroku email",
+	    	"value": ""
 	    },
 	    "heroku_token":{
 	    	"description": "heroku token",
 	    	"value":""
 	    },
-		"site_url": {
+	    "site_url": {
 	    	"description": "site url",
 	    	"value":""
 	    }
