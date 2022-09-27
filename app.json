@@ -14,7 +14,7 @@
 	"env": {
 	    "TASK": {
 	    	"description": "job name",
-	    	"value":"cron"
+	    	"value":"run_traffic"
 	    },
 	    "HEROKU_ENVIRONMENT": {
 	    	"value":"1"
