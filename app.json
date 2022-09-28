@@ -14,14 +14,14 @@
 	"env": {
 	    "TASK": {
 	    	"description": "job name",
-	    	"value":"run_traffic"
+	    	"value": "run_traffic"
 	    },
 	    "HEROKU_ENVIRONMENT": {
-	    	"value":"1"
+	    	"value": "1"
 	    },
 	    "heroku_app":{
 	    	"description": "heroku app",
-	    	"value":""
+	    	"value": ""
 	    },
 	    "heroku_email":{
 	    	"description": "heroku email",
@@ -29,11 +29,11 @@
 	    },
 	    "heroku_token":{
 	    	"description": "heroku token",
-	    	"value":""
+	    	"value": ""
 	    },
-	    "site_url": {
-	    	"description": "site url",
-	    	"value":""
+	    "domains": {
+	    	"description": "site domains",
+	    	"value": ""
 	    }
 	},
 	"scripts": {
