@@ -31,6 +31,10 @@
 	    	"description": "heroku token",
 	    	"value": ""
 	    },
+		"cron_job_api": {
+	    	"description": "cron-job.org api",
+	    	"value": ""
+	    },
 	    "domains": {
 	    	"description": "site domains",
 	    	"value": ""
